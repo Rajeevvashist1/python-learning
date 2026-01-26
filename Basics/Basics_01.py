@@ -1,0 +1,1 @@
+print("Kya Haal Duniya")
